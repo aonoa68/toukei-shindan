@@ -7,7 +7,9 @@
 
 ## 解説動画
 
-<a class="video-card" href="https://www.youtube.com/watch?v=fPn5eOXU5RA" target="_blank" rel="noopener"><img src="https://i.ytimg.com/vi/fPn5eOXU5RA/hqdefault.jpg" alt="" loading="lazy"><span><strong>総合的・実践的な分析〜Kaggleを例に</strong><small>YouTube で再生する（新しいタブで開きます）</small></span></a>
+<div class="video-wrap"><iframe src="https://www.youtube-nocookie.com/embed/fPn5eOXU5RA" title="総合的・実践的な分析〜Kaggleを例に" loading="lazy" allowfullscreen allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
+
+[YouTube で見る：総合的・実践的な分析〜Kaggleを例に](https://www.youtube.com/watch?v=fPn5eOXU5RA)
 
 ## 資料
 

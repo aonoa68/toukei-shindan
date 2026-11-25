@@ -7,7 +7,9 @@
 
 ## 解説動画
 
-<a class="video-card" href="https://www.youtube.com/watch?v=zKZVLQTRLes" target="_blank" rel="noopener"><img src="https://i.ytimg.com/vi/zKZVLQTRLes/hqdefault.jpg" alt="" loading="lazy"><span><strong>GIS(地理情報システム)</strong><small>YouTube で再生する（新しいタブで開きます）</small></span></a>
+<div class="video-wrap"><iframe src="https://www.youtube-nocookie.com/embed/zKZVLQTRLes" title="GIS(地理情報システム)" loading="lazy" allowfullscreen allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
+
+[YouTube で見る：GIS(地理情報システム)](https://www.youtube.com/watch?v=zKZVLQTRLes)
 
 ## 資料
 

@@ -7,7 +7,9 @@
 
 ## 解説動画
 
-<a class="video-card" href="https://www.youtube.com/watch?v=RimQaNUm3pA" target="_blank" rel="noopener"><img src="https://i.ytimg.com/vi/RimQaNUm3pA/hqdefault.jpg" alt="" loading="lazy"><span><strong>テキストマイニング生成AI</strong><small>YouTube で再生する（新しいタブで開きます）</small></span></a>
+<div class="video-wrap"><iframe src="https://www.youtube-nocookie.com/embed/RimQaNUm3pA" title="テキストマイニング生成AI" loading="lazy" allowfullscreen allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
+
+[YouTube で見る：テキストマイニング生成AI](https://www.youtube.com/watch?v=RimQaNUm3pA)
 
 ## 資料
 
